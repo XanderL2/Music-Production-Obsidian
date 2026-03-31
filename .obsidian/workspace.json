@@ -1,0 +1,272 @@
+{
+  "main": {
+    "id": "0ab8a5826d617233",
+    "type": "split",
+    "children": [
+      {
+        "id": "801bc626c118c060",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da3b55daa7b74f26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Teoria/1..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1."
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "774db4a91d609937",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1cb48417b9afc99",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "31d4fa1733a47e66",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "prettier",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "99e3b1b40a8b4fdd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          },
+          {
+            "id": "8ade6215c8db1fca",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          },
+          {
+            "id": "02b070d6a49dcd26",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 433.5
+  },
+  "right": {
+    "id": "8c7dd5d078583b80",
+    "type": "split",
+    "children": [
+      {
+        "id": "c50bf46a7f04ccc2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e13811f1f3d4e8f1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1. Desarrollo/PROGRAMACION/1. JavaScript/4. One Linners/2. Estructuras con patrones comunes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2. Estructuras con patrones comunes"
+            }
+          },
+          {
+            "id": "4c17e4bd4886d10e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "4. Atajos/Markdown Sintax.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Markdown Sintax"
+            }
+          },
+          {
+            "id": "d213c10ee5b8c43c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "41b851cc6f7d14cb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1. Teoria/1..md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de 1."
+            }
+          },
+          {
+            "id": "6d98cd3bd2b8e415",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "7b932836e38f523c",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
+            }
+          },
+          {
+            "id": "d35ab02017a7cd78",
+            "type": "leaf",
+            "state": {
+              "type": "quiet-outline",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "quiet-outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 537.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "markdown-importer:Abrir el importador de Markdown": false,
+      "bases:Crear nueva base": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "da3b55daa7b74f26",
+  "lastOpenFiles": [
+    "4. Composiciones",
+    "5. Images",
+    "1. Teoria/1..md",
+    "3. Piano",
+    "2. Fl Studio",
+    "1. Teoria",
+    "1. Desarrollo/LENGUAJES COMPLEMENTARIOS/5. XML/5.  XPATH.md",
+    "1. Desarrollo/LENGUAJES COMPLEMENTARIOS/2. CSS/5. Posicionamiento/1. Positions (Todos).md",
+    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/2. DOM - BOM/1. DOM (Document Object Model(/3. Event Handling/1. Examen.md",
+    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/10. Gestion de Peticiones HTTP/3. Cache y Gestion de Peticiones HTTP/2. Queries.md",
+    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/10. Gestion de Peticiones HTTP/3. Cache y Gestion de Peticiones HTTP/1. Tanstack Query.md",
+    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/10. Gestion de Peticiones HTTP/2. Interceptors/1. Interceptors.md",
+    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/12. Funcionalidades Especiales (NGs y DOM)/4. Enviroments (Variables de Entorno).md",
+    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/13. Utilidades/1. RxResource.md",
+    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/2. Angular CLI/2. Angular MCP Server.md",
+    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/10. Gestion de Peticiones HTTP/3. Cache y Gestion de Peticiones HTTP/3. Optimizacion de peticiones.md",
+    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/10. Gestion de Peticiones HTTP/3. Cache y Gestion de Peticiones HTTP/4. Mutaciones (Peticiones POST, PUT DELETE Y PATCH).md",
+    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/10. Gestion de Peticiones HTTP/4. Guards/3.  Guards.md",
+    "1. Desarrollo/ARQUITECTURAS DE SOFTWARE/2. Arquitecturas a nivel de codigo/1. Screaming Architecture/1. Screaming Architecture.md",
+    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/7. RXJS (Programacion Reactiva)/5. Operadores RxJS/1. Operadores de RxJs.md",
+    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/11. Formularios Reactivos/1. Reactivos/1. Formularios Reactivos - FormGruups.md",
+    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/11. Formularios Reactivos/1. Reactivos/3. Formularios reactivos y de plantillas Reutilizables.md",
+    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/8. Signals/4. Effects.md",
+    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/10. Gestion de Peticiones HTTP/3. Cache y Gestion de Peticiones HTTP/0. Gestion correcta de Peticiones HTTP.md",
+    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/10. Gestion de Peticiones HTTP/1. Peticiones HTTP Angular/2. Manejo de Errores en Peticiones HTTP.md",
+    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/8. Signals/2. Sintaxis y uso de Signals.md",
+    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/8. Signals/1. Que son las Señales.md",
+    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/8. Signals/5. LinkedSignals.md",
+    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/8. Signals/3. Inputs e Outputs como Signals.md",
+    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/10. Gestion de Peticiones HTTP/1. Peticiones HTTP Angular/1. Peticiones HTTP.md",
+    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/10. Gestion de Peticiones HTTP/3. Cache y Gestion de Peticiones HTTP",
+    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/10. Gestion de Peticiones HTTP/2. Interceptors",
+    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/10. Gestion de Peticiones HTTP/4. Guards",
+    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/10. Gestion de Peticiones HTTP/1. Peticiones HTTP Angular",
+    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/10. Gestion de Peticiones HTTP",
+    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/15. Librerias de Componentes/PrimeNG",
+    "6. Images/Pasted image 20250510183242.png",
+    "Pasted Image 20250430154616_325.png",
+    "Pasted Image 20250430154555_090.png",
+    "Pasted Image 20250429192404_235.png",
+    "Pasted Image 20250429180859_079.png",
+    "xd/Drawing 2025-04-27 11.57.05.excalidraw.png",
+    "6. Images/ayesa.excalidraw.png",
+    "6. Images/2024-02-01-16-24-21.jpeg",
+    "6. Images/Pasted image 20240830115228.png",
+    "6. Images/Pasted image 20240905170044.png",
+    "Sin título.canvas",
+    "Sin título 1.canvas",
+    "3. Complementos/Proyectos/Nextlify/Sin título.canvas",
+    "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/Sin título.canvas",
+    "5. Excalidraw/Sin título.canvas",
+    "Untitled.canvas"
+  ]
+}

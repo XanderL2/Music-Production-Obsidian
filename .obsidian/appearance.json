@@ -1,0 +1,10 @@
+{
+  "accentColor": "#6600ff",
+  "baseFontSize": 17,
+  "cssTheme": "Obsidian gruvbox",
+  "theme": "system",
+  "nativeMenus": false,
+  "textFontFamily": "IosevkaTerm Nerd Font Mono,Arial",
+  "baseFontSizeAction": true,
+  "interfaceFontFamily": ""
+}
